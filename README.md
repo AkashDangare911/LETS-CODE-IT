@@ -1,2 +1,4 @@
-# Lets-Code-it
-Here i will upload all my solved problems on LEETCODE. Worst and best approaches are also included for better understanding of concepts !
+The problems are provided with the actual question numbers. So that, you can easily find them on leetcode. 
+Do check out my leetcode profile !
+Happy Coding !
+LeetCode Profile Link : https://leetcode.com/Akash_Dangare/
