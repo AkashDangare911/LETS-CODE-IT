@@ -38,5 +38,6 @@ int main()
     vector<int> v = {4,1,2,1,2};
     Solution obj;
     cout<<obj.singleNumberUsingSpace(v);
+    
     return 0;
 }
